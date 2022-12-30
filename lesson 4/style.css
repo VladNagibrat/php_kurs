@@ -1,0 +1,64 @@
+    #frame
+    {
+        width: 1000px; /* ширина */
+        background-color: brown; /* цвет фона */
+        margin: auto; /* выравнивание по центру */
+        display: table; /* Отображение в форме таблицы */
+        height: 100%;
+    }
+    #header
+    {
+        width: 940px;
+        height: 5px; /* высота */
+        background-color: burlywood;
+        margin: auto;
+        margin-top: 10px; /* отступ от верхней границы */
+        padding: 20px; /* внутренний отступ */
+        text-align: center; /* Выравнивание текста по центру */
+    }
+    #footer
+    {
+        width: 940px;
+        height: 5px; /* высота */
+        background-color: coral;
+        margin: auto;
+        margin-top: 10px; /* отступ от верхней границы */
+        padding: 20px; /* внутренний отступ */
+        text-align: center; /* Выравнивание текста по центру */
+        display: table-footer-group; /* Представление как футера (подвала)*/
+    }
+    #content
+    {
+        height: 900px; /* высота */
+        width: 700px; /* ширина */
+        background-color: darkgoldenrod; /*цвет фона */
+        float: left; /* выравнивание блока (слева) */
+    }
+    #sidebar
+    {
+        background-color: chartreuse;
+        width: 200px;
+        height: 700px;
+        margin: 30px; /* выравнивание текста (центр) */
+        float: right; /* выравнивание блока (справа) */
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
